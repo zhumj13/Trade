@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Medicine_JSP_SQLServer"
+  id="myeclipse.1417160194791"
+  context-root="/Medicine_JSP_SQLServer"
+  j2ee-spec="5.0"
+  archive="Medicine_JSP_SQLServer.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
